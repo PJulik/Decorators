@@ -1,0 +1,4 @@
+2023-05-31 21:12:25.142482 Function <function hello_world at 0x000001EC84072C10> started with arguments (), {}.
+2023-05-31 21:12:25.142482 Function <function hello_world at 0x000001EC84072C10> returned Hello World.
+2023-05-31 21:13:41.038908 Function hello_world started with arguments (), {}.
+2023-05-31 21:13:41.038908 Function hello_world returned Hello World.

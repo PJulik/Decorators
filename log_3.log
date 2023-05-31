@@ -1,0 +1,8 @@
+2023-05-31 19:47:45.086879 Function hello_world with arguments () and {}.
+2023-05-31 19:47:45.086879 Function hello_world returned Hello World.
+2023-05-31 19:47:45.087877 Function summator with arguments (2, 2) and {}.
+2023-05-31 19:47:45.087877 Function summator returned 4.
+2023-05-31 19:47:45.087877 Function div with arguments (6, 2) and {}.
+2023-05-31 19:47:45.087877 Function div returned 3.0.
+2023-05-31 19:47:45.087877 Function summator with arguments (4.3,) and {'b': 2.2}.
+2023-05-31 19:47:45.087877 Function summator returned 6.5.
